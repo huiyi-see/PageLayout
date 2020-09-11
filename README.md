@@ -1,3 +1,7 @@
 # PageLayout
-  This is a project where I would like to turn my friend's design into a real website. Her designs applied a number of columns and alignments. By building up this page and deploying it through netlify,I have better idea with the implemention of the columns and alignments. 
+  This is a project where a number of columns and alignments have been implemented to create the layouts of each of the divisions. This project is mostly completed with HTML and CSS, and some involvements of Javascript.  
+
 ##
+
+## Link
+This project has been deployed to a web hosting server (netlify). Thus it can be viewed via the link: https://layoutpresentation.netlify.app. 
