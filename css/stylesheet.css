@@ -180,24 +180,25 @@ body{
 .conImg
 {
 	width: 100%;
-	margin-top: 30em;
+	margin-top: 26em;
 	padding-right:2em;
 }
 .forthCon{
 	clear: both;
 	width: 100%;
-	padding-top: 2em;
+	padding-top: 4em;
 	border:blue solid;
 }
 .forthConLeft{
 	float: left;
 	border: red solid;
-	width: 58%;
+	width: 50%;
+
 }
 .forthConRight{
 	float:right;
 	border: green solid;
-	width: 40%;
+	width: 48%;
 }
 .fifthCon{
 	clear: both;
@@ -211,6 +212,7 @@ body{
 .midCon{
 	width: 100%;
 	border:green solid;
+
 }
 .forthSmallConLeft{
 	float: left;
@@ -227,6 +229,7 @@ body{
 }
 .forthConP{
 	border:red solid;
+	font-size: 10pt;
 }
 .fifthCon{
 }
